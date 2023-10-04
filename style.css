@@ -7,6 +7,7 @@ body{
 h1 {
   border: 3px double darkgrey; 
   padding-left: 5px;
+  font-size: 30px;
 }
 
 h2{
@@ -18,7 +19,7 @@ h2{
 h3 {
   text-decoration: wavy underline lightskyblue;
   padding-left: 5px;
-  font-size: 20px
+  font-size: 20px;
 }
 
 h4 {
@@ -31,23 +32,12 @@ h5 {
   padding-left: 5px;
 }
 
-
-
-.exp-header {
-  text-transform
-  
-}
-
-.jobexp {
-  
-}
-
 .container {
-    margin-top: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-top: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
     padding: 10px 150px 10px 150px;
-    border-radius: 15px;
+    border-radius: 30px;
     background-color: lightslategrey;
     text-align: left;
 }
